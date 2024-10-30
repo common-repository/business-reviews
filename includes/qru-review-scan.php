@@ -1,0 +1,5 @@
+<h1 class="h1-header" style="margin-top: 50px; text-align: center;">Review Scan</h1>
+
+<p style="font-size: 18px; width: 100%; max-width: 700px; margin: 50px auto; display: block;">Run unlimited free business review reports showing reviews across all major sites, your aggregate rating, public sentiment about your company, ratings distribution, total number of reviews, number of reviews by site and much more.</p>
+
+<div style="width: 100%; max-width: 1000px; margin: 50px auto; display: block;"><div class="reviewmgr-lookup" data-url="https://quicklyreview.us"></div><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.reviewmgr.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document, "script", "reviewmgr-wjs");</script></div>
